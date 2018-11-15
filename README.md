@@ -1,3 +1,3 @@
 # hello-github
 
-Hi okafuku!
+Hi okafuki!
